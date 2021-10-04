@@ -20,7 +20,57 @@
 ## My latest posts
 
 <!--START-BLOG-POSTS-->
-
+  <table>
+    <tr>
+      <th>Article</th>
+      <th>Description</th>
+      <th>Posted at</th>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://natandias.github.io/myblog/11/07/2021/typescript/" alt="Typescript">
+          Typescript
+        </a>
+      </td>
+      <td>Um superset do Javascript (adiciona feat...</td>
+      <td>11-07-2021</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://natandias.github.io/myblog/14/05/2021/nginx/" alt="Instalando e configurando NGINX no Ubuntu">
+          Instalando e configurando NGINX no Ubuntu
+        </a>
+      </td>
+      <td>O NGINX é um servidor web muito poderoso...</td>
+      <td>14-05-2021</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://natandias.github.io/myblog/12/10/2020/nuxt/" alt="Anotações sobre NuxtJs">
+          Anotações sobre NuxtJs
+        </a>
+      </td>
+      <td>Algumas notas escritas enquanto estudava...</td>
+      <td>12-10-2020</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://natandias.github.io/myblog/12/10/2020/next/" alt="NextJs">
+          NextJs
+        </a>
+      </td>
+      <td>É um framework web desenvolvido em React...</td>
+      <td>12-10-2020</td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://natandias.github.io/myblog/12/10/2020/meu-post-inicial/" alt="GIT e Github">
+          GIT e Github
+        </a>
+      </td>
+      <td>"O Git é um sistema open-source de contr...</td>
+      <td>12-10-2020</td>
+    </tr></table>
 <!--END-BLOG-POSTS-->
 ## :notebook_with_decorative_cover: My Stats
 
