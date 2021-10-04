@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://natandias.github.io/myblog/11/07/2021/typescript/" alt="Typescript">
+        <a href="https://natandias.github.io/myblog/11/07/2021/typescript/" alt="Typescript" target="_blank" rel="noreferrer noopen">
           Typescript
         </a>
       </td>
@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://natandias.github.io/myblog/14/05/2021/nginx/" alt="Instalando e configurando NGINX no Ubuntu">
+        <a href="https://natandias.github.io/myblog/14/05/2021/nginx/" alt="Instalando e configurando NGINX no Ubuntu" target="_blank" rel="noreferrer noopen">
           Instalando e configurando NGINX no Ubuntu
         </a>
       </td>
@@ -46,7 +46,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://natandias.github.io/myblog/12/10/2020/nuxt/" alt="Anotações sobre NuxtJs">
+        <a href="https://natandias.github.io/myblog/12/10/2020/nuxt/" alt="Anotações sobre NuxtJs" target="_blank" rel="noreferrer noopen">
           Anotações sobre NuxtJs
         </a>
       </td>
@@ -55,7 +55,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://natandias.github.io/myblog/12/10/2020/next/" alt="NextJs">
+        <a href="https://natandias.github.io/myblog/12/10/2020/next/" alt="NextJs" target="_blank" rel="noreferrer noopen">
           NextJs
         </a>
       </td>
@@ -64,7 +64,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://natandias.github.io/myblog/12/10/2020/meu-post-inicial/" alt="GIT e Github">
+        <a href="https://natandias.github.io/myblog/12/10/2020/meu-post-inicial/" alt="GIT e Github" target="_blank" rel="noreferrer noopen">
           GIT e Github
         </a>
       </td>
