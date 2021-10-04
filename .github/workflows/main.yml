@@ -27,7 +27,5 @@ jobs:
       - uses: actions/setup-node@v2
         with:
           node-version: '14'
-
-      - name: Update README.md
       - run: yarn
       - run: node get-posts.js
