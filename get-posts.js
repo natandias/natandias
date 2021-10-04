@@ -43,7 +43,7 @@ const formatPosts = posts => {
     formattedPosts += `
     <tr>
       <td>
-        <a href="${post.link}" alt="${post.title}">
+        <a href="${post.link}" alt="${post.title}" target="_blank" rel="noreferrer noopen">
           ${post.title}
         </a>
       </td>
@@ -75,7 +75,7 @@ const writeOnReadme = posts => {
 
   const openedFile = fs.openSync("./README.md", "w");
   fs.writeSync(openedFile, editedReadme);
-  fs.close(openedFile);
+  fs.closeSync(openedFile);
 };
 
 getPosts();
