@@ -17,7 +17,11 @@
 
 ![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) ![NuxtJS](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white) ![PostgresSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
+## My latest posts
 
+<!--START-BLOG-POSTS-->
+
+<!--END-BLOG-POSTS-->
 ## :notebook_with_decorative_cover: My Stats
 
 [![Natan Dias's GitHub stats](https://github-readme-stats.vercel.app/api?username=natandias&show_icons=true&theme=dracula&count_private=true&layout=compact)](https://github.com/natandias/github-readme-stats)

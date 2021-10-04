@@ -1,0 +1,11 @@
+{
+  "name": "natandias",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:natandias/natandias.git",
+  "author": "natandias <natandias@pm.me>",
+  "license": "MIT",
+  "dependencies": {
+    "rss-to-json": "^2.0.2"
+  }
+}
