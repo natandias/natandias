@@ -29,3 +29,5 @@ jobs:
           node-version: '14'
       - run: yarn
       - run: node get-posts.js
+      - run: git add .
+      - run: git commit -m 'Update blog posts'
