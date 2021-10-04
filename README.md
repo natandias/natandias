@@ -72,6 +72,7 @@
       <td>12-10-2020</td>
     </tr></table>
 <!--END-BLOG-POSTS-->
+
 ## :notebook_with_decorative_cover: My Stats
 
 [![Natan Dias's GitHub stats](https://github-readme-stats.vercel.app/api?username=natandias&show_icons=true&theme=dracula&count_private=true&layout=compact)](https://github.com/natandias/github-readme-stats)
