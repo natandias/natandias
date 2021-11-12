@@ -7,7 +7,7 @@
 * :boy: 21 years old
 * :rocket: Pursuing a bachelor's degree in Information Systems
 * :green_book: Studying SOLID, Typescript and Software Testing
-* :office: Currently working at [Lecode](https://lecode.dev/) and [Gerando Falcões](https://gerandofalcoes.com/)
+* :office: Currently working at [Lecode](https://lecode.dev/) and [Plural Systems](https://pluralsystems.com.br/)
 
 ## :computer: Stack I'm currently working with 
 
