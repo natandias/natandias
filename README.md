@@ -86,7 +86,3 @@
 <a href="https://www.linkedin.com/in/natandias/" rel="noopener noreferrer" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin">
 </a>
-
-<a href="mailto:natandias@pm.me">
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail">
-</a>
