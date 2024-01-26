@@ -4,7 +4,7 @@
 
 ![Hello Gif](./typing.gif)
 
-* :boy: 22 years old
+* :boy: 23 years old
 * :rocket: Pursuing a bachelor's degree in Information Systems
 * :green_book: Studying SOLID, Typescript and Software Testing
 * :office: Currently working at [Lecode](https://lecode.dev/)
@@ -74,8 +74,6 @@
 <!--END-BLOG-POSTS-->
 
 ## :notebook_with_decorative_cover: My Stats
-
-[![Natan Dias's GitHub stats](https://github-readme-stats.vercel.app/api?username=natandias&show_icons=true&theme=dracula&count_private=true&layout=compact)](https://github.com/natandias/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natandias&layout=compact&theme=dracula&hide=Jupyter%20Notebook&langs_count=6)
 
