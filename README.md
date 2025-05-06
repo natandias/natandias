@@ -5,7 +5,7 @@
 ![Hello Gif](./typing.gif)
 
 * :boy: 24 years old
-* :rocket: Pursuing a bachelor's degree in Information Systems
+* :rocket: B.Sc. in Information Systems
 * :green_book: Studying SOLID, Typescript and Software Testing
 * :office: Currently working at [Lecode](https://lecode.dev/)
 
